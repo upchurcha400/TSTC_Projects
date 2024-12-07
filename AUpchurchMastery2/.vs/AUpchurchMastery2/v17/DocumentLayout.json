@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\My Drive\\AUpchurchITSE1302FA24\\AUpchurchMastery2\\AUpchurchMastery2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9AD2AB-ECD9-4758-9C76-E74C8884118E}|AUpchurchMastery2.vcxproj|H:\\My Drive\\AUpchurchITSE1302FA24\\AUpchurchMastery2\\AUpchurchMastery2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC9AD2AB-ECD9-4758-9C76-E74C8884118E}|AUpchurchMastery2.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "H:\\My Drive\\AUpchurchITSE1302FA24\\AUpchurchMastery2\\AUpchurchMastery2\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "H:\\My Drive\\AUpchurchITSE1302FA24\\AUpchurchMastery2\\AUpchurchMastery2\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-28T22:19:02.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

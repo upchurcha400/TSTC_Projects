@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\upchu\source\repos\AUpchurchMastery6\AUpchurchMastery6\main.c(12,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AUpchurchMastery6.vcxproj -> C:\Users\upchu\source\repos\AUpchurchMastery6\AUpchurchMastery6\x64\Debug\AUpchurchMastery6.exe
