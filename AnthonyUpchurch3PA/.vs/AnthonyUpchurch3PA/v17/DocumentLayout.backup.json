@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\upchu\\source\\repos\\AnthonyUpchurch3PA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A82B27D-386D-4534-915D-D5CA8E273450}|AnthonyUpchurch3PA\\AnthonyUpchurch3PA.csproj|c:\\users\\upchu\\source\\repos\\anthonyupchurch3pa\\anthonyupchurch3pa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A82B27D-386D-4534-915D-D5CA8E273450}|AnthonyUpchurch3PA\\AnthonyUpchurch3PA.csproj|solutionrelative:anthonyupchurch3pa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A82B27D-386D-4534-915D-D5CA8E273450}|AnthonyUpchurch3PA\\AnthonyUpchurch3PA.csproj|c:\\users\\upchu\\source\\repos\\anthonyupchurch3pa\\anthonyupchurch3pa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A82B27D-386D-4534-915D-D5CA8E273450}|AnthonyUpchurch3PA\\AnthonyUpchurch3PA.csproj|solutionrelative:anthonyupchurch3pa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A82B27D-386D-4534-915D-D5CA8E273450}|AnthonyUpchurch3PA\\AnthonyUpchurch3PA.csproj|c:\\users\\upchu\\source\\repos\\anthonyupchurch3pa\\anthonyupchurch3pa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A82B27D-386D-4534-915D-D5CA8E273450}|AnthonyUpchurch3PA\\AnthonyUpchurch3PA.csproj|solutionrelative:anthonyupchurch3pa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 116,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\upchu\\source\\repos\\AnthonyUpchurch3PA\\AnthonyUpchurch3PA\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AnthonyUpchurch3PA\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\upchu\\source\\repos\\AnthonyUpchurch3PA\\AnthonyUpchurch3PA\\Form1.Designer.cs",
+              "RelativeToolTip": "AnthonyUpchurch3PA\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T00:04:54.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\upchu\\source\\repos\\AnthonyUpchurch3PA\\AnthonyUpchurch3PA\\Form1.cs",
+              "RelativeDocumentMoniker": "AnthonyUpchurch3PA\\Form1.cs",
+              "ToolTip": "C:\\Users\\upchu\\source\\repos\\AnthonyUpchurch3PA\\AnthonyUpchurch3PA\\Form1.cs",
+              "RelativeToolTip": "AnthonyUpchurch3PA\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T00:04:32.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\upchu\\source\\repos\\AnthonyUpchurch3PA\\AnthonyUpchurch3PA\\Form1.cs",
+              "RelativeDocumentMoniker": "AnthonyUpchurch3PA\\Form1.cs",
+              "ToolTip": "C:\\Users\\upchu\\source\\repos\\AnthonyUpchurch3PA\\AnthonyUpchurch3PA\\Form1.cs [Design]",
+              "RelativeToolTip": "AnthonyUpchurch3PA\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:37:06.967Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

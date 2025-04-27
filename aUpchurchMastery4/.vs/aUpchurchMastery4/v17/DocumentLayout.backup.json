@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\upchu\\source\\repos\\aUpchurchMastery4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD3E292-E38F-45F7-B8BD-E5650644D9B8}|aUpchurchMastery4\\aUpchurchMastery4.vcxproj|C:\\Users\\upchu\\source\\repos\\aUpchurchMastery4\\aUpchurchMastery4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BD3E292-E38F-45F7-B8BD-E5650644D9B8}|aUpchurchMastery4\\aUpchurchMastery4.vcxproj|solutionrelative:aUpchurchMastery4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\upchu\\source\\repos\\aUpchurchMastery4\\aUpchurchMastery4\\main.c",
+              "RelativeDocumentMoniker": "aUpchurchMastery4\\main.c",
+              "ToolTip": "C:\\Users\\upchu\\source\\repos\\aUpchurchMastery4\\aUpchurchMastery4\\main.c",
+              "RelativeToolTip": "aUpchurchMastery4\\main.c",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAwL0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-27T23:30:42.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

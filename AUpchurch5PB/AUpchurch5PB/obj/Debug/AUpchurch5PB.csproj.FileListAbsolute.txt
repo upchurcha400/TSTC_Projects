@@ -1,0 +1,10 @@
+C:\Users\upchu\source\repos\AUpchurch5PB\AUpchurch5PB\obj\Debug\AUpchurch5PB.csproj.AssemblyReference.cache
+C:\Users\upchu\source\repos\AUpchurch5PB\AUpchurch5PB\obj\Debug\AUpchurch5PB.frmPinkysPizza.resources
+C:\Users\upchu\source\repos\AUpchurch5PB\AUpchurch5PB\obj\Debug\AUpchurch5PB.Properties.Resources.resources
+C:\Users\upchu\source\repos\AUpchurch5PB\AUpchurch5PB\obj\Debug\AUpchurch5PB.csproj.GenerateResource.cache
+C:\Users\upchu\source\repos\AUpchurch5PB\AUpchurch5PB\obj\Debug\AUpchurch5PB.csproj.CoreCompileInputs.cache
+C:\Users\upchu\source\repos\AUpchurch5PB\AUpchurch5PB\bin\Debug\AUpchurch5PB.exe.config
+C:\Users\upchu\source\repos\AUpchurch5PB\AUpchurch5PB\bin\Debug\AUpchurch5PB.exe
+C:\Users\upchu\source\repos\AUpchurch5PB\AUpchurch5PB\bin\Debug\AUpchurch5PB.pdb
+C:\Users\upchu\source\repos\AUpchurch5PB\AUpchurch5PB\obj\Debug\AUpchurch5PB.exe
+C:\Users\upchu\source\repos\AUpchurch5PB\AUpchurch5PB\obj\Debug\AUpchurch5PB.pdb

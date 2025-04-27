@@ -1,0 +1,10 @@
+C:\Users\upchu\source\repos\AnthonyUpchurch3PA\AnthonyUpchurch3PA\bin\Debug\AnthonyUpchurch3PA.exe.config
+C:\Users\upchu\source\repos\AnthonyUpchurch3PA\AnthonyUpchurch3PA\bin\Debug\AnthonyUpchurch3PA.exe
+C:\Users\upchu\source\repos\AnthonyUpchurch3PA\AnthonyUpchurch3PA\bin\Debug\AnthonyUpchurch3PA.pdb
+C:\Users\upchu\source\repos\AnthonyUpchurch3PA\AnthonyUpchurch3PA\obj\Debug\AnthonyUpchurch3PA.csproj.AssemblyReference.cache
+C:\Users\upchu\source\repos\AnthonyUpchurch3PA\AnthonyUpchurch3PA\obj\Debug\AnthonyUpchurch3PA.Properties.Resources.resources
+C:\Users\upchu\source\repos\AnthonyUpchurch3PA\AnthonyUpchurch3PA\obj\Debug\AnthonyUpchurch3PA.csproj.GenerateResource.cache
+C:\Users\upchu\source\repos\AnthonyUpchurch3PA\AnthonyUpchurch3PA\obj\Debug\AnthonyUpchurch3PA.csproj.CoreCompileInputs.cache
+C:\Users\upchu\source\repos\AnthonyUpchurch3PA\AnthonyUpchurch3PA\obj\Debug\AnthonyUpchurch3PA.exe
+C:\Users\upchu\source\repos\AnthonyUpchurch3PA\AnthonyUpchurch3PA\obj\Debug\AnthonyUpchurch3PA.pdb
+C:\Users\upchu\source\repos\AnthonyUpchurch3PA\AnthonyUpchurch3PA\obj\Debug\AnthonyUpchurch3PA.frmTranslator.resources

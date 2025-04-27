@@ -1,0 +1,14 @@
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\bin\Debug\net8.0\AnthonyUpchurch4CA.exe
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\bin\Debug\net8.0\AnthonyUpchurch4CA.deps.json
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\bin\Debug\net8.0\AnthonyUpchurch4CA.runtimeconfig.json
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\bin\Debug\net8.0\AnthonyUpchurch4CA.dll
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\bin\Debug\net8.0\AnthonyUpchurch4CA.pdb
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\obj\Debug\net8.0\AnthonyUpchurch4CA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\obj\Debug\net8.0\AnthonyUpchurch4CA.AssemblyInfoInputs.cache
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\obj\Debug\net8.0\AnthonyUpchurch4CA.AssemblyInfo.cs
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\obj\Debug\net8.0\AnthonyUpchurch4CA.csproj.CoreCompileInputs.cache
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\obj\Debug\net8.0\AnthonyUpchurch4CA.dll
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\obj\Debug\net8.0\refint\AnthonyUpchurch4CA.dll
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\obj\Debug\net8.0\AnthonyUpchurch4CA.pdb
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\obj\Debug\net8.0\AnthonyUpchurch4CA.genruntimeconfig.cache
+C:\Users\upchu\source\repos\AnthonyUpchurch4CA\AnthonyUpchurch4CA\obj\Debug\net8.0\ref\AnthonyUpchurch4CA.dll

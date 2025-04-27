@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\upchu\\source\\repos\\AnthonyUpchurch5CA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B80A09A-1D26-41C0-80BF-62E28555943E}|AnthonyUpchurch5CA\\AnthonyUpchurch5CA.csproj|c:\\users\\upchu\\source\\repos\\anthonyupchurch5ca\\anthonyupchurch5ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B80A09A-1D26-41C0-80BF-62E28555943E}|AnthonyUpchurch5CA\\AnthonyUpchurch5CA.csproj|solutionrelative:anthonyupchurch5ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 116,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\upchu\\source\\repos\\AnthonyUpchurch5CA\\AnthonyUpchurch5CA\\Program.cs",
+              "RelativeDocumentMoniker": "AnthonyUpchurch5CA\\Program.cs",
+              "ToolTip": "C:\\Users\\upchu\\source\\repos\\AnthonyUpchurch5CA\\AnthonyUpchurch5CA\\Program.cs",
+              "RelativeToolTip": "AnthonyUpchurch5CA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T01:24:05.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

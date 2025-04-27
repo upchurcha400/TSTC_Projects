@@ -1,0 +1,10 @@
+C:\Users\upchu\source\repos\AnthonyUpchurchM4B\AnthonyUpchurchM4B\bin\Debug\AnthonyUpchurchM4B.exe.config
+C:\Users\upchu\source\repos\AnthonyUpchurchM4B\AnthonyUpchurchM4B\bin\Debug\AnthonyUpchurchM4B.exe
+C:\Users\upchu\source\repos\AnthonyUpchurchM4B\AnthonyUpchurchM4B\bin\Debug\AnthonyUpchurchM4B.pdb
+C:\Users\upchu\source\repos\AnthonyUpchurchM4B\AnthonyUpchurchM4B\obj\Debug\AnthonyUpchurchM4B.csproj.AssemblyReference.cache
+C:\Users\upchu\source\repos\AnthonyUpchurchM4B\AnthonyUpchurchM4B\obj\Debug\AnthonyUpchurchM4B.frmSalesReporting.resources
+C:\Users\upchu\source\repos\AnthonyUpchurchM4B\AnthonyUpchurchM4B\obj\Debug\AnthonyUpchurchM4B.Properties.Resources.resources
+C:\Users\upchu\source\repos\AnthonyUpchurchM4B\AnthonyUpchurchM4B\obj\Debug\AnthonyUpchurchM4B.csproj.GenerateResource.cache
+C:\Users\upchu\source\repos\AnthonyUpchurchM4B\AnthonyUpchurchM4B\obj\Debug\AnthonyUpchurchM4B.csproj.CoreCompileInputs.cache
+C:\Users\upchu\source\repos\AnthonyUpchurchM4B\AnthonyUpchurchM4B\obj\Debug\AnthonyUpchurchM4B.exe
+C:\Users\upchu\source\repos\AnthonyUpchurchM4B\AnthonyUpchurchM4B\obj\Debug\AnthonyUpchurchM4B.pdb

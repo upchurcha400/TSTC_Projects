@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\upchu\source\repos\AUpchurchMastery3\AUpchurchMastery3\main.c(82,2): warning C4013: 'system' undefined; assuming extern returning int
+  AUpchurchMastery3.vcxproj -> C:\Users\upchu\source\repos\AUpchurchMastery3\AUpchurchMastery3\x64\Debug\AUpchurchMastery3.exe

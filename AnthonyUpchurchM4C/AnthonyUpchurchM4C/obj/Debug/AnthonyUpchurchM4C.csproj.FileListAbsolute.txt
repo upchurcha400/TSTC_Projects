@@ -1,0 +1,15 @@
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\obj\Debug\AnthonyUpchurchM4C.csproj.AssemblyReference.cache
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\obj\Debug\MainWindow.g.cs
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\obj\Debug\App.g.cs
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\obj\Debug\AnthonyUpchurchM4C_MarkupCompile.cache
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\obj\Debug\AnthonyUpchurchM4C_MarkupCompile.lref
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\bin\Debug\AnthonyUpchurchM4C.exe.config
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\bin\Debug\AnthonyUpchurchM4C.exe
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\bin\Debug\AnthonyUpchurchM4C.pdb
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\obj\Debug\MainWindow.baml
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\obj\Debug\AnthonyUpchurchM4C.g.resources
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\obj\Debug\AnthonyUpchurchM4C.Properties.Resources.resources
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\obj\Debug\AnthonyUpchurchM4C.csproj.GenerateResource.cache
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\obj\Debug\AnthonyUpchurchM4C.csproj.CoreCompileInputs.cache
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\obj\Debug\AnthonyUpchurchM4C.exe
+C:\Users\upchu\source\repos\AnthonyUpchurchM4C\AnthonyUpchurchM4C\obj\Debug\AnthonyUpchurchM4C.pdb
