@@ -1,0 +1,10 @@
+C:\Users\upchu\source\repos\AnthonyUpchurchM5B\AnthonyUpchurchM5B\bin\Debug\AnthonyUpchurchM5B.exe.config
+C:\Users\upchu\source\repos\AnthonyUpchurchM5B\AnthonyUpchurchM5B\bin\Debug\AnthonyUpchurchM5B.exe
+C:\Users\upchu\source\repos\AnthonyUpchurchM5B\AnthonyUpchurchM5B\bin\Debug\AnthonyUpchurchM5B.pdb
+C:\Users\upchu\source\repos\AnthonyUpchurchM5B\AnthonyUpchurchM5B\obj\Debug\AnthonyUpchurchM5B.csproj.AssemblyReference.cache
+C:\Users\upchu\source\repos\AnthonyUpchurchM5B\AnthonyUpchurchM5B\obj\Debug\AnthonyUpchurchM5B.Form1.resources
+C:\Users\upchu\source\repos\AnthonyUpchurchM5B\AnthonyUpchurchM5B\obj\Debug\AnthonyUpchurchM5B.Properties.Resources.resources
+C:\Users\upchu\source\repos\AnthonyUpchurchM5B\AnthonyUpchurchM5B\obj\Debug\AnthonyUpchurchM5B.csproj.GenerateResource.cache
+C:\Users\upchu\source\repos\AnthonyUpchurchM5B\AnthonyUpchurchM5B\obj\Debug\AnthonyUpchurchM5B.csproj.CoreCompileInputs.cache
+C:\Users\upchu\source\repos\AnthonyUpchurchM5B\AnthonyUpchurchM5B\obj\Debug\AnthonyUpchurchM5B.exe
+C:\Users\upchu\source\repos\AnthonyUpchurchM5B\AnthonyUpchurchM5B\obj\Debug\AnthonyUpchurchM5B.pdb

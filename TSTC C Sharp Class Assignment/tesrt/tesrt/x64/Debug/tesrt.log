@@ -1,0 +1,7 @@
+﻿  teser.c
+C:\Users\upchu\source\repos\tesrt\tesrt\teser.c(13,11): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double'
+C:\Users\upchu\source\repos\tesrt\tesrt\teser.c(15,11): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double'
+C:\Users\upchu\source\repos\tesrt\tesrt\teser.c(17,11): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'double'
+C:\Users\upchu\source\repos\tesrt\tesrt\teser.c(13,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\upchu\source\repos\tesrt\tesrt\teser.c(15,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\upchu\source\repos\tesrt\tesrt\teser.c(17,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
