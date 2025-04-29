@@ -1,4 +1,0 @@
-﻿  main.c
-C:\Users\upchu\source\repos\aUpchurchMastery4\aUpchurchMastery4\main.c(166,5): warning C4013: 'system' undefined; assuming extern returning int
-C:\Users\upchu\source\repos\aUpchurchMastery4\aUpchurchMastery4\main.c(27,21): warning C4305: 'initializing': truncation from 'double' to 'float'
-  aUpchurchMastery4.vcxproj -> C:\Users\upchu\source\repos\aUpchurchMastery4\aUpchurchMastery4\x64\Debug\aUpchurchMastery4.exe
